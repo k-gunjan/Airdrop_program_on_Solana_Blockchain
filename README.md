@@ -1,1 +1,2 @@
-# Airdrop_program_on_Solana_Blockchain
+# Airdrop program on solana blockchain
+This is an airdrop program. Airdrop refers to the act of sending a cryptocurrency to a wallet, usually for free, to either promote the cryptocurrency or enable developers to test out transactions over the blockchain without spending real money. This requires basic understanding of any one programming language - preferably Javascript and blockchain. We generate wallet address also to which cryptocurrency will be transferred.
